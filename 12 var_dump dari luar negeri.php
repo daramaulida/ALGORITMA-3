@@ -9,4 +9,4 @@ $array = array(
 var_dump($array);
  
 $array = '<p><strong>By:Dara Maulida';
-print_r($array);
+var_dump($array);
